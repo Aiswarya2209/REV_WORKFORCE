@@ -1,0 +1,9 @@
+#Fri Jan 30 17:14:00 IST 2026
+eclipse.preferences.version=1
+encoding//src/com/revworkforce/dao/AdminDao.java=UTF-8
+encoding//src/com/revworkforce/dao/EmployeeDao.java=UTF-8
+encoding//src/com/revworkforce/dao/LoginDAO.java=UTF-8
+encoding//src/com/revworkforce/dao/PerformanceDao.java=UTF-8
+encoding//src/com/revworkforce/model/Employee.java=UTF-8
+encoding//src/com/revworkforce/service/PerformanceService.java=UTF-8
+encoding//src/com/revworkforcetest/NotificationDaoTest.java=UTF-8
